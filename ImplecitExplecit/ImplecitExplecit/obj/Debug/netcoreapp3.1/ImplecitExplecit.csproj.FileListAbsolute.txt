@@ -1,0 +1,13 @@
+D:\P125\ImplecitExplecit\ImplecitExplecit\bin\Debug\netcoreapp3.1\ImplecitExplecit.exe
+D:\P125\ImplecitExplecit\ImplecitExplecit\bin\Debug\netcoreapp3.1\ImplecitExplecit.deps.json
+D:\P125\ImplecitExplecit\ImplecitExplecit\bin\Debug\netcoreapp3.1\ImplecitExplecit.runtimeconfig.json
+D:\P125\ImplecitExplecit\ImplecitExplecit\bin\Debug\netcoreapp3.1\ImplecitExplecit.runtimeconfig.dev.json
+D:\P125\ImplecitExplecit\ImplecitExplecit\bin\Debug\netcoreapp3.1\ImplecitExplecit.dll
+D:\P125\ImplecitExplecit\ImplecitExplecit\bin\Debug\netcoreapp3.1\ImplecitExplecit.pdb
+D:\P125\ImplecitExplecit\ImplecitExplecit\obj\Debug\netcoreapp3.1\ImplecitExplecit.csprojAssemblyReference.cache
+D:\P125\ImplecitExplecit\ImplecitExplecit\obj\Debug\netcoreapp3.1\ImplecitExplecit.AssemblyInfoInputs.cache
+D:\P125\ImplecitExplecit\ImplecitExplecit\obj\Debug\netcoreapp3.1\ImplecitExplecit.AssemblyInfo.cs
+D:\P125\ImplecitExplecit\ImplecitExplecit\obj\Debug\netcoreapp3.1\ImplecitExplecit.csproj.CoreCompileInputs.cache
+D:\P125\ImplecitExplecit\ImplecitExplecit\obj\Debug\netcoreapp3.1\ImplecitExplecit.dll
+D:\P125\ImplecitExplecit\ImplecitExplecit\obj\Debug\netcoreapp3.1\ImplecitExplecit.pdb
+D:\P125\ImplecitExplecit\ImplecitExplecit\obj\Debug\netcoreapp3.1\ImplecitExplecit.genruntimeconfig.cache
